@@ -1,5 +1,5 @@
 // Add your API endpoint here below
-var API_ENDPOINT = "https://xcglktuijk.execute-api.us-east-1.amazonaws.com/stage1";
+var API_ENDPOINT = "https://jq1vi6wwai.execute-api.us-east-1.amazonaws.com/prod";
 
 // AJAX POST REQUEST
 document.getElementById("saveprofile").onclick = function () {
